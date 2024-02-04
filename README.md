@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ritik and I'm a Data Analyst, from India</h2>
 
-<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://drive.google.com/file/d/1ffRUCUE2LYoMWsSoLFTpMiQslxNvEkbn/view?usp=sharing)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA3a2M5dzl2NGFkb2hucTI4anA0M2lvcWFma2FhYTFsNTN1NXNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cq6mWh9z1KvMA4qRvB/giphy-downsized-large.gif)"  />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA3a2M5dzl2NGFkb2hucTI4anA0M2lvcWFma2FhYTFsNTN1NXNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cq6mWh9z1KvMA4qRvB/giphy-downsized-large.gif"  />
 
 ###
 
