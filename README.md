@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://www.freecodecamp.org/news/content/images/2022/11/web-g1c2368440_1280.jpg)"  />
 
 ###
 
