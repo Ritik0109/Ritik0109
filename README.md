@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ritik and I'm a Data Analyst, from India</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="[https://i.imgflip.com/65efzo.gif](https://drive.google.com/file/d/1ffRUCUE2LYoMWsSoLFTpMiQslxNvEkbn/view?usp=sharing)"  />
 
 ###
 
