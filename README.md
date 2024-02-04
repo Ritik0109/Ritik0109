@@ -2,9 +2,9 @@
 
 ###
 
-- 🔭 I’m working as ...
-- 📚 I'm currently learning ...
-- ⚡ In my free time I ...
+- 🔭 I’m working as a Analyst
+- 📚 I'm currently learning Python & Cloud 
+- ⚡ In my free time I like to reading books. I also like travelling and bodybuilding. I'm also into cars. A good TV-show with snacks to binge-watch is the best.
 
 ###
 
