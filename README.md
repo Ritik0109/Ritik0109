@@ -2,9 +2,11 @@
 
 ###
 
+## I'm ... from ....
 
-
-![web-g1c2368440_1280](https://github.com/Ritik0109/Ritik0109/assets/84517614/4e6e679d-c1d5-4ea0-a836-91600dcbae0e)
+- 🔭 I’m working as ...
+- 📚 I'm currently learning ...
+- ⚡ In my free time I ...
 
 ###
 
