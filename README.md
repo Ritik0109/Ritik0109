@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Ritik and I'm a Data Analyst, from India</h2>
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
 - 🔭 I’m working as a Analyst
