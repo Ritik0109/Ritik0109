@@ -6,7 +6,7 @@
 
 - 🔭 I’m working as a Data Analyst
 - 📚 I'm currently learning Cloud & Dataflows 
-- ⚡ In my free time I like to reading books. I also like travelling and bodybuilding. I'm also into cars. A good TV-show with snacks to binge-watch is the best.
+- ⚡ In my free time I like to reading books. I also like travelling and bodybuilding. I'm also into cars.
 
 ###
 
