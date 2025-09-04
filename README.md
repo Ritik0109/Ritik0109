@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is Ritik and I'm a Data Analyst, from India</h2>
+<h2 align="left">Hi 👋! My name is Ritik and I'm a Data Engineer, from India</h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnA3a2M5dzl2NGFkb2hucTI4anA0M2lvcWFma2FhYTFsNTN1NXNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cq6mWh9z1KvMA4qRvB/giphy-downsized-large.gif"  />
 
 ###
 
-- 🔭 I’m working as a Data Engineer
-- 📚 I'm currently learning Cloud & Dataflows 
+- 🔭 I’m working as a Data Engineer and I work on Azure Databricks
+- 📚 I'm currently learning Linux & Airflow
 - ⚡ In my free time I like to reading books. I also like travelling and bodybuilding.
 
 ###
