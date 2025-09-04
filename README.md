@@ -4,7 +4,7 @@
 
 ###
 
-- 🔭 I’m working as a Data Analyst
+- 🔭 I’m working as a Data Engineer
 - 📚 I'm currently learning Cloud & Dataflows 
 - ⚡ In my free time I like to reading books. I also like travelling and bodybuilding.
 
