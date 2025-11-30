@@ -5,7 +5,7 @@
 ###
 
 - 🔭 I’m working as a Data Engineer and I work on Azure Databricks
-- 📚 I'm currently learning Linux & Airflow
+- 📚 I'm currently learning Kafka & Docker
 - ⚡ In my free time I like to reading books. I also like travelling and bodybuilding.
 
 ###
